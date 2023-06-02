@@ -1,0 +1,13 @@
+- [ ] Have you checked if this pull request can actually be split? [ i.e. you are not committing multiple varied changes as one pull request? ]
+- [ ] Have you checked if this pull request includes all the changes required? [i.e you are not partially making a pull request]
+- [ ] Does the code compile and have you removed the warnings or complaints as per sonarlint?
+- [ ] Have you tested the code? Is it as per the requirement?
+- [ ] Have you tested for any side effects / breaking changes? [ Does this change break some existing feature? If yes, please mention the breaking changes it will do.]
+- [ ] Have you tested both if and else flows? [Happy flow as well as other flows]
+- [ ] Have you updated slate, ER, ... docs?
+- [ ] Have you self-reviewed the pull request?
+- [ ] Have you followed coding guidelines as per existing code?
+- [ ] Are all the variables, class, ... naming fine?
+- [ ] Is the code re-used as much as possible? [e.g. check if you can move some code into functions, etc
+- [ ] Is there any table column updates, if yes what will happen to the existing data.
+- [ ] Are there any database indices required for the query ?
